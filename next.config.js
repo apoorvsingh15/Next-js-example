@@ -5,5 +5,5 @@ module.exports = withCSS({
 })
 
 module.exports = {
-  assetPrefix: process.env.NODE_ENV === 'production' ? '/Next-js-example' : '',
+  assetPrefix: process.env.NODE_ENV === 'production' ? '/next-js-example' : '',
 }
